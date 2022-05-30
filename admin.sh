@@ -1,5 +1,5 @@
 clear
-termux-setup-storage
+termux-setup-storage -y
 figlet -f slant "Auto Admin"
 
 echo "                         coded by ANON_DARKPHANTOM"
