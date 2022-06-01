@@ -14,7 +14,7 @@ cd Auto_admin
 bash admin.sh
 
 <li>The authors are not responsible for any problems</li>
-
+#
 <p>THANKS TO :</p>
 
 <a href="https://github.com/ANON-D46KPH4TOM">ANON-D46KPH4TOM</a>
