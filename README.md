@@ -16,3 +16,5 @@ bash admin.sh
 THANKS TO :
 
 <a href="https://github.com/ANON-D46KPH4TOM">ANON-D46KPH4TOM</a>
+<a href="https://youtube.com/c/REDSPYTECH">REDSPY TECH</a>
+<a href="https://t.me/fpp_community">{ FPP } Community </a>
