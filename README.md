@@ -3,20 +3,20 @@
 
 <table>
 <li>pkg update</li>
-
+<br>
 
 <li>pkg upgrade</li>
-
+<br>
 
 <li>pkg install git bash</li>
-
+<br>
 
 <li>git clone https://github.com/ANON-D46KPH4TOM/Auto_admin</li>
 
-
+<br>
 <li>cd Auto_admin</li>
 
-
+<br>
 <li>bash admin.sh</li>
 </table>
 
