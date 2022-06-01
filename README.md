@@ -22,7 +22,7 @@
 </table>
 
 <br>
-The authors are not responsible for any problems
+<p>Read : <a href="https://github.com/ANON-D46KPH4TOM/Auto_admin/blob/main/.img/Notice.txt">Me </a></p>
 <br><br>
 <p>THANKS TO :</p>
 
