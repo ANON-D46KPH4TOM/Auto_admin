@@ -1,3 +1,4 @@
+fpp_Community="\033[0;32m"
 clear
 echo ""
 echo ""
@@ -20,6 +21,8 @@ pkg install figlet
 clear
 pkg install python -y
 clear
+echo -e $fpp_Community 
+clear
 echo " Please Wait..."
 echo " █"
 sleep 1
@@ -30,6 +33,7 @@ echo " ████████"
 echo " ████████████████"
 sleep 1
 echo ""
+echo -e $fpp_Community
 clear
 echo " Installation Completed"
 echo " 
