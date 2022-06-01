@@ -14,4 +14,5 @@ cd Auto_admin
 bash admin.sh
 
 Thanks To 
-<<a href="https://github.com/ANON-D46KPH4TOM">ANON-D46KPH4TOM</a>
+
+<a href="https://github.com/ANON-D46KPH4TOM">ANON-D46KPH4TOM</a>
