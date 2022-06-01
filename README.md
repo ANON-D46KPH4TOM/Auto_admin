@@ -6,14 +6,15 @@
 
 <li>pkg upgrade</li>
 
-pkg install git bash
+<li>pkg install git bash</li>
 
-git clone https://github.com/ANON-D46KPH4TOM/Auto_admin
+<li>git clone https://github.com/ANON-D46KPH4TOM/Auto_admin</li>
 
-cd Auto_admin
+</li>cd Auto_admin</li>
 
-bash admin.sh
+<li>bash admin.sh</li>
 </table>
+
 The authors are not responsible for any problems
 
 <p>THANKS TO :</p>
