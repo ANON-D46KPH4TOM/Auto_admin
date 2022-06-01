@@ -1,7 +1,6 @@
 <img src="https://github.com/ANON-D46KPH4TOM/Auto_admin/blob/main/.img/InShot_20220601_161242746.jpg" alt="fpp_community , auto Admin WhatsApp">
 <p>easy method to hack someone's WhatsApp group</p>
 <hr>
-<br>
 <table>
 <li>pkg update</li>
 <br>
