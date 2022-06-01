@@ -13,7 +13,7 @@ sleep 1
 echo ""
 clear
 echo ""
-echo " Your WhatsApp number is : $num
+echo " Your WhatsApp number is : $num"
 sleep 1
 echo " Group name is : $nam"
 sleep 1
