@@ -12,11 +12,20 @@ read -p " Enter group admin number : " adm
 sleep 1
 echo ""
 clear
+echo ""
+echo " Your WhatsApp number is : $num
+sleep 1
+echo " Group name is : $nam"
+sleep 1
+echo " Admin WhatsApp number is : $adm"
+sleep 1
+clear
 echo " Loading..."
 sleep 1
 echo " Scanning..."
 sleep 1
-echo " "
+echo " WhatsApp group found"
+sleep 2
 echo "please wait................................."
 sleep 10
 echo "POYI NANNAIKUDA😂😂"
