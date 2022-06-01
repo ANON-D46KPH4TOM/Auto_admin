@@ -20,7 +20,7 @@
 <br>
 <li>bash admin.sh</li>
 </table>
-
+<hr>
 <p>THANKS TO :</p>
 
 <li><a href="https://github.com/ANON-D46KPH4TOM">ANON-D46KPH4TOM</a></li>
