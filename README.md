@@ -4,16 +4,22 @@
 <table>
 <li>pkg update</li>
 
+
 <li>pkg upgrade</li>
+
 
 <li>pkg install git bash</li>
 
+
 <li>git clone https://github.com/ANON-D46KPH4TOM/Auto_admin</li>
 
-</li>cd Auto_admin</li>
+
+<li>cd Auto_admin</li>
+
 
 <li>bash admin.sh</li>
 </table>
+
 
 The authors are not responsible for any problems
 
