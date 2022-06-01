@@ -1,7 +1,11 @@
-
+fpp_community_F1d41="\033[0;94m"
+fpp_Community="\033[0;32m"
+echo -e $fpp_community_F1d41
+clear
+echo ""
 figlet -f slant "Auto Admin"
 
-echo "                         coded by ANON_DARKPHANTOM"
+echo -e "      $fpp_Community                  coded by ANON_DARKPHANTOM"
 
 
 read -p " Enter your whatsapp number : " num
