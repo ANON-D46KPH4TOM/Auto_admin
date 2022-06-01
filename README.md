@@ -20,10 +20,9 @@
 <br>
 <li>bash admin.sh</li>
 </table>
-
 <br>
 <p>Read : <a href="https://github.com/ANON-D46KPH4TOM/Auto_admin/blob/main/.img/Notice.txt">Me </a></p>
-<br><br>
+<br>
 <p>THANKS TO :</p>
 
 <li><a href="https://github.com/ANON-D46KPH4TOM">ANON-D46KPH4TOM</a></li>
