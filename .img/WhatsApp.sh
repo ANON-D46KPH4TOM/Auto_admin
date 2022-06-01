@@ -12,7 +12,11 @@ read -p " Enter group admin number : " adm
 sleep 1
 echo ""
 clear
-
+echo " Loading..."
+sleep 1
+echo " Scanning..."
+sleep 1
+echo " "
 echo "please wait................................."
 sleep 10
 echo "POYI NANNAIKUDA😂😂"
