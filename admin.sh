@@ -20,4 +20,9 @@ pkg install figlet
 clear
 pkg install python -y
 clear
-bash .img/
+bash .img/WhatsApp.sh
+clear
+echo ""
+echo " Loading..."
+echo " Wait..."
+
