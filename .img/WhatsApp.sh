@@ -19,6 +19,8 @@ clear
 echo -e $fpp_Community
 clear
 echo ""
+figlet -f slant "Auto Admin"
+echo -e "      $fpp_Community                  coded by ANON_DARKPHANTOM"
 echo " Your WhatsApp number is : $num"
 sleep 1
 echo " Group name is : $nam"
