@@ -26,7 +26,7 @@ echo " Scanning..."
 sleep 1
 echo " WhatsApp group found"
 sleep 1
-echo " Activin
+echo " Activating"
 sleep 2
 echo "please wait................................."
 sleep 1
