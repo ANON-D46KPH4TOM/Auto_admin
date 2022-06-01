@@ -6,7 +6,7 @@ echo ""
 figlet -f slant "Auto Admin"
 
 echo -e "      $fpp_Community                  coded by ANON_DARKPHANTOM"
-
+echo ""
 
 read -p " Enter your whatsapp number : " num
 sleep 1
@@ -15,6 +15,8 @@ sleep 1
 read -p " Enter group admin number : " adm
 sleep 1
 echo ""
+clear
+echo -e $fpp_Community
 clear
 echo ""
 echo " Your WhatsApp number is : $num"
