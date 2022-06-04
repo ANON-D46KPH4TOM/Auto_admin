@@ -31,3 +31,9 @@
 <li><a href="https://t.me/fpp_community">{ FPP } Community </a></li>
 <br>
 <p>Read : <a href="https://github.com/ANON-D46KPH4TOM/Auto_admin/blob/main/.img/Notice.txt">Me </a></p>
+<hr>
+
+<li>Tutorial : <a href="https://youtube.com/channel/UCldyBI4H1jK-X0RweVV5dkw">ANON-D46KPH4TOM</a></li>
+
+<li>Support : <a href="https://youtube.com/c/REDSPYTECH">REDSPY TECH</a></li>
+
