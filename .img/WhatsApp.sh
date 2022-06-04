@@ -1,6 +1,6 @@
 #!/bin/bash
 # Why read this code
-# 
+# don't believe me
 fpp_community_F1d41="\033[0;94m"
 fpp_Community="\033[0;32m"
 echo -e $fpp_community_F1d41
