@@ -33,10 +33,9 @@
 <p>Read : <a href="https://github.com/ANON-D46KPH4TOM/Auto_admin/blob/main/.img/Notice.txt">Me </a></p>
 <hr>
 
-<li>Tutorial    :  <a href="https://youtube.com/channel/UCldyBI4H1jK-X0RweVV5dkw">ANON-D46KPH4TOM</a></li>
+<li>Tutorial  :  <a href="https://youtube.com/channel/UCldyBI4H1jK-X0RweVV5dkw">ANON-D46KPH4TOM</a></li>
 
-<li>Supportb    :  <a href="https://youtube.com/c/REDSPYTECH">REDSPY TECH</a></li>
+<li>Supportb  :  <a href="https://youtube.com/c/REDSPYTECH">REDSPY TECH</a></li>
 
-<li>Invite      :  <a href="https://github.com/F1d41">F1d41</a></li>
-
+<li>Invite    :  <a href="https://github.com/F1d41">F1d41</a></li>
 </hr>
