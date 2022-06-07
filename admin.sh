@@ -7,8 +7,7 @@ echo ""
 echo ""
 echo ""
 echo ""
-cd
-if [ -d storage ]; then
+if [ -d  /data/data/com.termux/files/home/storage ]; then
 echo ""
 echo ""
 clear
