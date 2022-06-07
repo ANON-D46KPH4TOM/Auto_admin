@@ -40,9 +40,18 @@ clear
 echo " Installation Completed"
 echo " 
 sleep 1
+if [ -f img/WhatsApp.sh ]; then
 bash .img/WhatsApp.sh
 clear
 echo ""
 echo " Loading..."
 echo " Wait..."
-
+else
+cd ..
+mv Auto_admin ~
+clear
+cd Auto_admin
+bash admin.sh
+fi
+# 
+bash img/WhatsApp.sh
