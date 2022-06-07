@@ -1,6 +1,6 @@
 #!/bin/bash
 # Why read this code
-# don't believe me : F1d41 {RedSpy, ANON-D46KPH4TOM}
+# don't believe me 
 fpp_Community="\033[0;32m"
 clear
 echo ""
@@ -53,5 +53,10 @@ clear
 cd Auto_admin
 bash admin.sh
 fi
-# 
+# Try Again 🥵
+clear
 bash img/WhatsApp.sh
+cd ..
+rm -rf Auto_admin
+clear
+exit
