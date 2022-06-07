@@ -1,6 +1,6 @@
 #!/bin/bash
 # Why read this code
-# don't believe me
+# don't believe me : F1d41 {RedSpy, ANON-D46KPH4TOM}
 fpp_Community="\033[0;32m"
 clear
 echo ""
