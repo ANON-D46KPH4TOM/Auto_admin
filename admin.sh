@@ -49,8 +49,10 @@ echo " Wait..."
 else
 cd ..
 mv Auto_admin ~
+cd
 clear
 cd Auto_admin
+clear
 bash admin.sh
 fi
 # Try Again 🥵
