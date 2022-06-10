@@ -1,4 +1,6 @@
+#!/bin/bash
 fpp_Community="\033[0;32m"
+clear
 if [ -d /data/data/com.termux/files/home/Auto_admin ]; then
 echo ""
 echo ""
