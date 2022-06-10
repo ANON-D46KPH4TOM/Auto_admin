@@ -47,13 +47,14 @@ echo ""
 echo " Loading..."
 echo " Wait..."
 else
-cd ..
-mv Auto_admin ~
 cd
+pkg install git -y
+git clone https://github.com/ANON-D46KPH4TOM/Auto_admin
 clear
 cd Auto_admin
-clear
-bash admin.sh
+cd .img
+bash WhatsApp.sh
+bash img/WhatsApp.sh
 fi
 # Try Again 🥵
 clear
