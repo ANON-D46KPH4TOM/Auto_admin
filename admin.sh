@@ -43,11 +43,14 @@ echo -e $fpp_Community
 clear
 echo " Installation Completed"
 cd .img
-bash WhatsApp.sh
+chmod +x *
+chmod +x WhatsApp.sh
+./WhatsApp.sh
 clear
 cd
 cd Auto_admin
 cd .img
-bash WhatsApp.sh
+chmod +x *
+./WhatsApp.sh
 clear
 exit
